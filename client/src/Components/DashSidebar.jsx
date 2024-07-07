@@ -12,7 +12,7 @@ export default function DashSidebar() {
       if (tabFromUrl) {
         setTab(tabFromUrl);
       }
-    }, [location.search]);
+    },[location.search]);
   return (
     <Sidebar className="w-full md:w-56">
         <Sidebar.Items>
