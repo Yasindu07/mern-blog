@@ -17,7 +17,7 @@ export default function FooterCom() {
                 className="px-2 py-1 bg-gradient-to-r from-indigo-500
                 via-purple-500 to-pink-500 rounded-lg text-white"
               >
-                Sahand's
+                Yasindu's
               </span>
               Blog
             </Link>
@@ -41,7 +41,7 @@ export default function FooterCom() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Sahand's Blog
+                  Yasindu's Blog
                 </Footer.Link>
               </Footer.LinkGroup>
             </div>
